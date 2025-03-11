@@ -32,7 +32,7 @@ The Snake Game AI project uses a reinforcement learning approach to train an age
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/snake-game-ai.git
+   git clone https://github.com/ktauchathuranga/snake-game-ai.git
    cd snake-game-ai
    ```
 
